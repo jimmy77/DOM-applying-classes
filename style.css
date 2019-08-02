@@ -36,6 +36,6 @@ div {
 .visible {
   display: block;
   border: 3px black dashed;
-  border-radius: 0;
+  /* border-radius: 0; */
   background-color: white;
 }
